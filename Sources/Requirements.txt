@@ -1,0 +1,10 @@
+El Files Manager debería verse en forma de estructura, debe tener mínimo la sección para ver las carpetas
+y otra para ver los archivos de las mismas.
+
+Deberá reflejar los cambios en tiempo real y en disco, 
+es decir, si se realiza algún cambio en el explorador de archivos, se deber ver reflejado en el Files Manager y viceversa
+
+Definir una carpeta raiz base para el Files Manager
+con el fin de evitar conflictos con carpetas a las que no se pueden acceder
+
+Se puede realizar en parejas (Definir los grupos en Canvas)
